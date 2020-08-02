@@ -1,4 +1,4 @@
-print("program of addition for two numbers x and y")
+print("program of addition for two numbers x and y:")
 x=int(input("enter the integer x"))
 y=int(input("enter the integer y"))
 c=x+y
